@@ -1,5 +1,4 @@
 /**
- * Created with IntelliJ IDEA.
  * User: che
  * Date: 07.02.14
  * Time: 10:34
