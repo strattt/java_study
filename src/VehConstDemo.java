@@ -1,9 +1,7 @@
 /**
- * Created with IntelliJ IDEA.
  * User: che
  * Date: 10.02.14
  * Time: 8:12
- * To change this template use File | Settings | File Templates.
  */
 public class VehConstDemo {
     public static void main(String args[]) {
