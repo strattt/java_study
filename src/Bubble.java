@@ -29,6 +29,8 @@ public class Bubble {
                 }
 
             }
+
+
         //отображение отсортированного массива
         System.out.println("Sorted array is: ");
         for (int i = 0; i < size; i++)
